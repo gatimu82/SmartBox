@@ -1,0 +1,16 @@
+
+.carousel-inner img{
+    width: 100%;
+    margin-top: 1px;
+    height: 55vw;
+    display: flex;
+}
+.h1{
+    height: 1vh;
+}
+.carousel-item{
+    width: 100%;
+    margin-top: 1px;
+    height: 55vw;
+
+}
